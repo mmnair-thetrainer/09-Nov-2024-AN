@@ -1,3 +1,3 @@
 # day09Nov
-This is sa sampling for Github example.
-Follow this procedure.
+This is a sampling for Github example.
+Follow the procedure.
