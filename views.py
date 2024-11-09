@@ -130,3 +130,8 @@ def replay_message(request, id):
     else:
         pass
     return render(request, 'doctor/chat_replay.html')
+
+
+
+# _______________________________________________________________
+
